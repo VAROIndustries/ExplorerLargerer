@@ -1,5 +1,7 @@
 # ExplorerLargerer
 
+[![VARØ Industries](https://img.shields.io/badge/VAR%C3%98-Industries-c8883e?style=flat-square)](https://varo.industries)
+
 A Windows photo browser that shows thumbnails **way** larger than Windows Explorer's maximum "Extra Large" size.
 
 ![screenshot placeholder](screenshot.png)
